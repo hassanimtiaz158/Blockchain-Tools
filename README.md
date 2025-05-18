@@ -76,5 +76,5 @@ The tools and resources listed here are for educational purposes only, designed 
 
 I hope you will dive deep into it as you research. If you appreciate this project and want to give back, follow me on 
 <a href="https://x/0xAsharib" target="_blank">X (Twitter)</a>, and 
-<a href="https://www.linkedin.com/in/asharibali" target="_blank">LinkedIn</a>. <br>
+<a href="https://github.com/hassanimtiaz158" target="_blank">LinkedIn</a>. <br>
 
